@@ -7,7 +7,6 @@ function panic(worry) {
 }
 
 // Test your function
-
 panic("oh my god there is no more tea")
 // panic("hello??");
 

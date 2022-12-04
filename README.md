@@ -6,12 +6,12 @@ This is a chance for developers to level up their JavaScript skills with daily c
 
 ## The Challenges
 
-Below are links to my solutions on Scrimba.
+Below are links to my solutions.
 
-- Day 1 - [Panic Function! 😱](https://scrimba.com/scrim/coc044ee9b8313d07e642b6f6)
-- Day 2 - [🕵️ Totally Private Data Farm](https://scrimba.com/scrim/co50243a990f6c92952a02fc1)
-- Day 3 - []()
-- Day 4 - []()
+- Day 1 - [Panic Function! 😱](https://juliendy.github.io/javascriptmas2022/Day1)
+- Day 2 - [🕵️ Totally Private Data Farm](https://juliendy.github.io/javascriptmas2022/Day2)
+- Day 3 - [🥐 Favourite Foods](https://juliendy.github.io/javascriptmas2022/Day3)
+- Day 4 - [🤫 Shh... Whispering Function](https://juliendy.github.io/javascriptmas2022/Day4)
 - Day 5 - []()
 - Day 6 - []()
 - Day 7 - []()
