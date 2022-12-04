@@ -1,5 +1,6 @@
 const shushButton = document.querySelector(".whisper");
 shushButton.addEventListener("click", renderPhrase);
+
 const phraseArray = [
     "PLEASE STOP SHOUTING.",
     "MA'AM, this is a Wendy's!",

@@ -6,9 +6,9 @@ const faveFoods = {
 
 const { breakfast, lunch, dinner } = faveFoods;
 
-const dailyNosh = document.getElementById("meals");
+const meals = document.getElementById("meals");
 
-dailyNosh.innerHTML = `
+meals.innerHTML = `
         <h1>My favorite foods</h1>
         <div class="meal-container">
             <p>For breakfast, I like a good ${breakfast}.</p> 
