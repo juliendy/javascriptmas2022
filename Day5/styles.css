@@ -3,47 +3,36 @@
 }
 
 body {
-    background: pink;
-    color: mistyrose;
-    margin: 0;
-    padding: 0;
-    font-family: "Press Start 2P", cursive;
-    font-size: 62.5%;
-}
-
-main {
+    width: 100vw;
+    max-width: 500px;
     margin: 0 auto;
-    min-width: 10rem;
-    max-width: 15rem;
+    padding: 1em 0;
+    background: #9edbb199;
+    color: #b01f07;
+    font-family: 'Nerko One', cursive;;
     display: flex;
     flex-direction: column;
-    justify-content: center;
+    align-items: center;
+    text-shadow: 1px 1px .2px darkgreen;
 }
 
 h1 {
-    background-color: #171616;
-    padding: 1.2rem 1.8rem;
-    margin: 1em;
-    font-size: 1.35rem;
     text-align: center;
+    width: 90%;
+    padding-bottom: 1rem;
+    margin-bottom: .5rem;
+    border-bottom: 1px solid darkgreen;
 }
 
 .candy {
-    background-color: #171616;
-    padding: 0.6rem 1.8rem;
-    margin: 1em;
+    max-width: 450px;
+    width: 90%;
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid darkgreen;
 }
 
 p {
-    margin: 0.25rem;
-    white-space: nowrap;
-    overflow: hidden;
-    width: 30em;
-    animation: type 2s steps(60, start);
-}
-
-@keyframes type {
-    from {
-        width: 0;
-    }
+    font-size: 2rem;
+    margin: .5rem 3rem;
 }

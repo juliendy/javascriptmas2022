@@ -15,22 +15,28 @@
 
 import products from "./data.js";
 
-const main = document.body.querySelector("main");
+const body = document.querySelector("body");
 
 function getSaleItems(data) {
-    return data
-        .filter((item) => item.type === "sweet")
+    // only sweets!
+    let shoppingCart = data
+        .filter(({ type }) => {
+            return type === "sweet";
+        })
         .map(({ item, price }) => {
-            main.innerHTML += `
-            <div class="candy">
-                <p>${item}</p>
-                <p>${price}</p>
-            </div>
-        `;
             return { item, price };
         });
+    // render to DOM
+    shoppingCart.forEach(({ item, price }) => {
+        body.innerHTML += `
+            <div class="candy">
+                <p>${item}</p>
+                <p>$${price}</p>
+            <div>
+            `;
+    });
 }
 
-const shoppingCart = getSaleItems(products);
+getSaleItems(products);
 
 console.log(shoppingCart);
