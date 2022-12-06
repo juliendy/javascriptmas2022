@@ -21,3 +21,12 @@ function putTacosOnTray() {
 }
 
 document.getElementById("tray").innerHTML = putTacosOnTray();
+
+// button to refresh page w/o f5 or cmd+r
+const refreshButton = document.getElementById("refreshButton");
+
+refreshButton.addEventListener("click", refreshPage);
+
+function refreshPage() {
+    location.reload();
+}
