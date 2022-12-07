@@ -1,11 +1,3 @@
-// Alternating Caps 
-// Write a function that takes in a string of letters
-// and returns a sentence in which every other letter is capitalized.
-
-// Example input: "I'm so happy it's Monday"
-// Example output: "I'M So hApPy iT'S MoNdAy"
-
-
 function altCaps(str) {
     // Create an empty result string
     let newStr = "";
@@ -21,3 +13,33 @@ function altCaps(str) {
 }
 
 console.log(altCaps("When you visit Portland you have to go to VooDoo Donuts"));
+
+// Get a reference to the form element
+const form = document.querySelector("form");
+
+// Add an event listener to the form that listens for the submit event
+form.addEventListener("submit", (event) => {
+    // Prevent the default form submission behavior
+    event.preventDefault();
+
+    // Get the value of the input field
+    const sentence = document.querySelector("#sentence").value;
+
+    // Call the altCaps() function with the sentence as the argument
+    const result = altCaps(sentence);
+
+    // Log the result to the console
+    console.log(result);
+
+    // Create a new paragraph element
+    const paragraph = document.createElement("p");
+
+    // Set the text content of the paragraph to the result
+    paragraph.textContent = result;
+
+    // Append the paragraph to the page
+    document.body.appendChild(paragraph);
+
+    // Reset form
+    form.reset();
+});

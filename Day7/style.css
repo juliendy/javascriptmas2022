@@ -1,0 +1,41 @@
+* {
+    box-sizing: border-box;
+}
+
+/* body {
+    background: black;
+} */
+
+#form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    background: slategray;
+    border-radius: 0.6rem;
+    align-self: center;
+    font-size: 17px;
+    /* font-weight: 400; */
+    margin: 20px;
+    padding: 10px 30px;
+    text-align: center;
+    color: aliceblue;
+    font-family: Pangolin;
+    font-weight: bold;
+    cursor: pointer;
+    border: 2px solid aqua;
+}
+
+button:hover {
+    transition: ease 2s;
+    box-shadow: inset 300px 0 0 0 rgb(85, 209, 192);
+    color: rgb(11, 11, 15);
+}
+
+p {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

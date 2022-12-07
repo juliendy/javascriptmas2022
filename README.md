@@ -14,7 +14,7 @@ Below are links to my solutions.
 - Day 4 - [🤫 Shh... Whispering Function](https://juliendy.github.io/javascriptmas2022/Day4)
 - Day 5 - [🍭 Candy Sale](https://juliendy.github.io/javascriptmas2022/Day5/)
 - Day 6 - [🌮 Taco](https://juliendy.github.io/javascriptmas2022/Day6/)
-- Day 7 - []()
+- Day 7 - [🔡 Alternating Caps](https://juliendy.github.io/javascriptmas2022/Day7/)
 - Day 8 - []()
 - Day 9 - []()
 - Day 10 - []()
