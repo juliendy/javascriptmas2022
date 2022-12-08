@@ -15,7 +15,7 @@ Below are links to my solutions.
 - Day 5 - [🍭 Candy Sale](https://juliendy.github.io/javascriptmas2022/Day5/)
 - Day 6 - [🌮 Taco](https://juliendy.github.io/javascriptmas2022/Day6/)
 - Day 7 - [🔡 Alternating Caps](https://juliendy.github.io/javascriptmas2022/Day7/)
-- Day 8 - []()
+- Day 8 - [🕰 Valid time: testing with Jasmine](https://scrimba.com/scrim/cof42479784434956b6b8815e)
 - Day 9 - []()
 - Day 10 - []()
 - Day 11 - []()
