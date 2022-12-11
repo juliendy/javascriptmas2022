@@ -17,7 +17,7 @@ Below are links to my solutions.
 - Day 7 - [🔡 Alternating Caps](https://juliendy.github.io/javascriptmas2022/Day7/)
 - Day 8 - [🕰 Valid time: testing with Jasmine](https://scrimba.com/scrim/cof42479784434956b6b8815e)
 - Day 9 - [🔠 toTitleCase](https://scrimba.com/scrim/co5d04646b20bae3cb452cc7f)
-- Day 10 - []()
+- Day 10 - [](https://scrimba.com/scrim/co94c45a3a33d54f09845d5e8)
 - Day 11 - []()
 - Day 12 - []()
 - Day 13 - []()
