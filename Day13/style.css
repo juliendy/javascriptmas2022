@@ -25,10 +25,6 @@ p {
     color: white;
 }
 
-p:nth-child(2) {
-    margin-bottom: 100px;
-}
-
 .snow {
     position: relative;
     width: 100vw;

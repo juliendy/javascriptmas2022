@@ -20,7 +20,7 @@ Below are links to my solutions.
 - Day 10 - [📏 Sort by Lenght](https://scrimba.com/scrim/co94c45a3a33d54f09845d5e8) / [On Github](https://juliendy.github.io/javascriptmas2022/Day10/)
 - Day 11 - [👽 Decode an Alien Message](https://juliendy.github.io/javascriptmas2022/Day11/)
 - Day 12 - [☕️ Breakfast Menu](https://juliendy.github.io/javascriptmas2022/Day12/)
-- Day 13 - []()
+- Day 13 - [😃 Emojify!](https://juliendy.github.io/javascriptmas2022/Day13/)
 - Day 14 - []()
 - Day 15 - []()
 - Day 16 - []()
