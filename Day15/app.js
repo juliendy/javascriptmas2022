@@ -25,7 +25,10 @@ function reverseWord(word) {
     let reversed = "";
     for (let i = word.length - 1; i >= 0; i--) {
         // check if the current character is uppercase
-        if (word[i] === word[i].toUpperCase()) {
+        if (i === 0 && word[i] === word[i].toUpperCase()) {
+            // if it is, don't make the corresponding character in the reversed word uppercase
+            reversed += word[i].toLowerCase();
+        } else if (word[i] === word[i].toUpperCase()) {
             // if it is, make the corresponding character in the reversed word uppercase too
             reversed += word[i].toUpperCase();
         } else {
@@ -35,6 +38,7 @@ function reverseWord(word) {
     }
     return reversed;
 }
+
 
 // listen for submit events on the form
 form.addEventListener("submit", (event) => {
