@@ -22,7 +22,7 @@ Below are links to my solutions.
 - Day 12 - [☕️ Breakfast Menu](https://juliendy.github.io/javascriptmas2022/Day12/)
 - Day 13 - [😃 Emojify!](https://juliendy.github.io/javascriptmas2022/Day13/)
 - Day 14 - [🧮Count Vowel Conosant](https://scrimba.com/scrim/co8a8498b9fa501c08d953097)
-- Day 15 - [↔️ Palindromes][📏 Sort by Lenght](https://scrimba.com/scrim/co4c74cff803dfc2b120c6e2d) / [On Github](https://juliendy.github.io/javascriptmas2022/Day15/)
+- Day 15 - [↔️ Palindromes](https://scrimba.com/scrim/co4c74cff803dfc2b120c6e2d) / [On Github](https://juliendy.github.io/javascriptmas2022/Day15/)
 - Day 16 - []()
 - Day 17 - []()
 - Day 18 - []()
