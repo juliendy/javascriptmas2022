@@ -23,7 +23,7 @@ Below are links to my solutions.
 - Day 13 - [😃 Emojify!](https://juliendy.github.io/javascriptmas2022/Day13/)
 - Day 14 - [🧮Count Vowel Conosant](https://scrimba.com/scrim/co8a8498b9fa501c08d953097)
 - Day 15 - [↔️ Palindromes](https://scrimba.com/scrim/co4c74cff803dfc2b120c6e2d) / [On Github](https://juliendy.github.io/javascriptmas2022/Day15/)
-- Day 16 - []()
+- Day 16 - [🤖 Insert Dashes](https://scrimba.com/scrim/co7fa4c57afdeca1b68541981)
 - Day 17 - []()
 - Day 18 - []()
 - Day 19 - []()
