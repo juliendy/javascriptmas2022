@@ -25,7 +25,7 @@ Below are links to my solutions.
 - Day 15 - [↔️ Palindromes](https://scrimba.com/scrim/co4c74cff803dfc2b120c6e2d) / [On Github](https://juliendy.github.io/javascriptmas2022/Day15/)
 - Day 16 - [🤖 Insert Dashes](https://scrimba.com/scrim/co7fa4c57afdeca1b68541981)
 - Day 17 - []()
-- Day 18 - []()
+- Day 18 - [🍬 Candies](https://scrimba.com/scrim/co134445ab518315ad0af73b6)
 - Day 19 - []()
 - Day 20 - []()
 - Day 21 - []()
