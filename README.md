@@ -24,7 +24,7 @@ Below are links to my solutions.
 - Day 14 - [🧮Count Vowel Conosant](https://scrimba.com/scrim/co8a8498b9fa501c08d953097)
 - Day 15 - [↔️ Palindromes](https://scrimba.com/scrim/co4c74cff803dfc2b120c6e2d) / [On Github](https://juliendy.github.io/javascriptmas2022/Day15/)
 - Day 16 - [🤖 Insert Dashes](https://scrimba.com/scrim/co7fa4c57afdeca1b68541981)
-- Day 17 - []()
+- Day 17 - [🐱 Pumpkin's Presents](https://juliendy.github.io/javascriptmas2022/Day17/)
 - Day 18 - [🍬 Candies](https://scrimba.com/scrim/co134445ab518315ad0af73b6)
 - Day 19 - [📆 Century From Year](https://scrimba.com/scrim/co55241d88983ab7e327f5114)
 - Day 20 - []()
