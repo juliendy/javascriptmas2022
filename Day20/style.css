@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background: black;
+    color: white;
+    margin: 0;
+    padding: 0;
+    font-family: "Open Sans", sans-serif;
+}
+
+.title {
+    display: block;
+    width: 50%;
+    margin: 0 auto;
+    text-align: center;
+    background-color: lightgrey;
+    border: 1px solid black;
+    padding: 10px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+/* Define a style for the podcasts container */
+.podcasts-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 10px;
+}
+
+/* Define a style for each podcast */
+.podcast {
+    display: block;
+    width: 300px;
+    margin: 0 auto;
+    box-sizing: border-box;
+    border: 1px solid black;
+    padding: 10px;
+}
