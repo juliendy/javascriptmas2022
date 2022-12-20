@@ -27,7 +27,7 @@ Below are links to my solutions.
 - Day 17 - [🐱 Pumpkin's Presents](https://juliendy.github.io/javascriptmas2022/Day17/)
 - Day 18 - [🍬 Candies](https://scrimba.com/scrim/co134445ab518315ad0af73b6)
 - Day 19 - [📆 Century From Year](https://scrimba.com/scrim/co55241d88983ab7e327f5114)
-- Day 20 - []()
+- Day 20 - [🎙 Find (Free) Podcasts](https://juliendy.github.io/javascriptmas2022/Day20/)
 - Day 21 - []()
 - Day 22 - []()
 - Day 23 - []()
