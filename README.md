@@ -28,9 +28,9 @@ Below are links to my solutions.
 - Day 18 - [🍬 Candies](https://scrimba.com/scrim/co134445ab518315ad0af73b6)
 - Day 19 - [📆 Century From Year](https://scrimba.com/scrim/co55241d88983ab7e327f5114)
 - Day 20 - [🎙 Find (Free) Podcasts](https://juliendy.github.io/javascriptmas2022/Day20/)
-- Day 21 - []()
-- Day 22 - []()
-- Day 23 - []()
+- Day 21 - [💻 Totally Not FizzBuzz ](https://scrimba.com/scrim/co63347f69d3a8c1da9b3c67c)
+- Day 22 - [🍴 Ready Tables](https://juliendy.github.io/javascriptmas2022/Day22/)
+- Day 23 - [Henry's 🎁 Holiday Gift Shopping](https://juliendy.github.io/javascriptmas2022/Day23/)
 - Day 24 - []()
 
 ## About Scrimba
