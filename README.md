@@ -31,7 +31,7 @@ Below are links to my solutions.
 - Day 21 - [💻 Totally Not FizzBuzz ](https://scrimba.com/scrim/co63347f69d3a8c1da9b3c67c)
 - Day 22 - [🍴 Ready Tables](https://juliendy.github.io/javascriptmas2022/Day22/)
 - Day 23 - [Henry's 🎁 Holiday Gift Shopping](https://juliendy.github.io/javascriptmas2022/Day23/)
-- Day 24 - []()
+- Day 24 - [🎄 Christmas Jukebox](https://juliendy.github.io/javascriptmas2022/Day24/)
 
 ## About Scrimba
 

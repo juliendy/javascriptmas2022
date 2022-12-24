@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+        <link
+            href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;600&display=swap"
+            rel="stylesheet"
+        />
+        <link rel="stylesheet" href="style.css" type="text/css" />
+        <script src="app.js" defer></script>
+        <title>🎄 (Indie) Christmas Jukebox</title>
+    </head>
+    <body>
+        <div class="container">
+            <h1>🎄 (Indie) Christmas Jukebox</h1>
+            <iframe
+                id="player"
+                type="text/html"
+                width="480"
+                height="240"
+                src="https://www.youtube.com/embed/rUiZRWsIGAY?autoplay=1"
+                frameborder="0"
+            ></iframe>
+
+            <div class="songs">
+                <button onclick="playSong('rUiZRWsIGAY')">
+                    The Christmas Song
+                </button>
+                <button onclick="playSong('9IBqwAKv8b8')">
+                    Wonderful Christmastime
+                </button>
+                <button onclick="playSong('NSgHGFuPNus')">The New Year</button>
+                <button onclick="playSong('xbYgYiHrzzA')">
+                    The White Season
+                </button>
+                <button onclick="playSong('v=-FA-st3heLY')">
+                    Silver Bells
+                </button>
+            </div>
+        </div>
+    </body>
+</html>
